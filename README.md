@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Pet-Registration Project
+## Register Pets detail and calculate their fee. 
 
 *Default Structure for A Basic Project*
 
